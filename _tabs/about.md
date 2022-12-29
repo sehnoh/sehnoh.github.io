@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+An accomplished Software Engineer specializing in Object-Oriented Analysis and Design who has extensive experience in the full life cycle of the software development process including requirements analysis, prototyping, proof of concept, interface design, implementation, testing, automation, and maintenance.
